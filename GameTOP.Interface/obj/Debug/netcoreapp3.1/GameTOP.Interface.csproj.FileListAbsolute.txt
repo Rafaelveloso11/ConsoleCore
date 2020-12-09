@@ -1,0 +1,13 @@
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTOP.Interface\bin\Debug\netcoreapp3.1\GameTOP.Interface.exe
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTOP.Interface\bin\Debug\netcoreapp3.1\GameTOP.Interface.deps.json
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTOP.Interface\bin\Debug\netcoreapp3.1\GameTOP.Interface.runtimeconfig.json
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTOP.Interface\bin\Debug\netcoreapp3.1\GameTOP.Interface.runtimeconfig.dev.json
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTOP.Interface\bin\Debug\netcoreapp3.1\GameTOP.Interface.dll
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTOP.Interface\bin\Debug\netcoreapp3.1\GameTOP.Interface.pdb
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTOP.Interface\obj\Debug\netcoreapp3.1\GameTOP.Interface.csprojAssemblyReference.cache
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTOP.Interface\obj\Debug\netcoreapp3.1\GameTOP.Interface.AssemblyInfoInputs.cache
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTOP.Interface\obj\Debug\netcoreapp3.1\GameTOP.Interface.AssemblyInfo.cs
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTOP.Interface\obj\Debug\netcoreapp3.1\GameTOP.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTOP.Interface\obj\Debug\netcoreapp3.1\GameTOP.Interface.dll
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTOP.Interface\obj\Debug\netcoreapp3.1\GameTOP.Interface.pdb
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTOP.Interface\obj\Debug\netcoreapp3.1\GameTOP.Interface.genruntimeconfig.cache

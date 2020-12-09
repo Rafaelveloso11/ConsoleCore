@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "GameTOP.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/GameTOP.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameTOP.Interface.dll": {}
+        }
+      },
+      "GameTop.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "GameTOP.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GameTop.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameTop.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameTOP.Interface/1.0.0": {
+      "type": "project",
+      "path": "../GameTOP.Interface/GameTOP.Interface.csproj",
+      "msbuildProject": "../GameTOP.Interface/GameTOP.Interface.csproj"
+    },
+    "GameTop.Lib/1.0.0": {
+      "type": "project",
+      "path": "../GameTop.Lib/GameTop.Lib.csproj",
+      "msbuildProject": "../GameTop.Lib/GameTop.Lib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "GameTOP.Interface >= 1.0.0",
+      "GameTop.Lib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Rafael Veloso\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Rafael Veloso\\source\\repos\\GameTop\\GameTop\\GameTop.csproj",
+      "projectName": "GameTop",
+      "projectPath": "C:\\Users\\Rafael Veloso\\source\\repos\\GameTop\\GameTop\\GameTop.csproj",
+      "packagesPath": "C:\\Users\\Rafael Veloso\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rafael Veloso\\source\\repos\\GameTop\\GameTop\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Rafael Veloso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Rafael Veloso\\source\\repos\\GameTop\\GameTOP.Interface\\GameTOP.Interface.csproj": {
+              "projectPath": "C:\\Users\\Rafael Veloso\\source\\repos\\GameTop\\GameTOP.Interface\\GameTOP.Interface.csproj"
+            },
+            "C:\\Users\\Rafael Veloso\\source\\repos\\GameTop\\GameTop.Lib\\GameTop.Lib.csproj": {
+              "projectPath": "C:\\Users\\Rafael Veloso\\source\\repos\\GameTop\\GameTop.Lib\\GameTop.Lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

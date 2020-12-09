@@ -1,0 +1,13 @@
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTop.Lib\bin\Debug\netcoreapp3.1\GameTop.Lib.deps.json
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTop.Lib\bin\Debug\netcoreapp3.1\GameTop.Lib.dll
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTop.Lib\bin\Debug\netcoreapp3.1\GameTop.Lib.pdb
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTop.Lib\obj\Debug\netcoreapp3.1\GameTop.Lib.csprojAssemblyReference.cache
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTop.Lib\obj\Debug\netcoreapp3.1\GameTop.Lib.AssemblyInfoInputs.cache
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTop.Lib\obj\Debug\netcoreapp3.1\GameTop.Lib.AssemblyInfo.cs
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTop.Lib\obj\Debug\netcoreapp3.1\GameTop.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTop.Lib\obj\Debug\netcoreapp3.1\GameTop.Lib.dll
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTop.Lib\obj\Debug\netcoreapp3.1\GameTop.Lib.pdb
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTop.Lib\bin\Debug\netcoreapp3.1\GameTOP.Interface.exe
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTop.Lib\bin\Debug\netcoreapp3.1\GameTOP.Interface.dll
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTop.Lib\bin\Debug\netcoreapp3.1\GameTOP.Interface.pdb
+C:\Users\Rafael Veloso\source\repos\GameTop\GameTop.Lib\obj\Debug\netcoreapp3.1\GameTop.Lib.csproj.CopyComplete
